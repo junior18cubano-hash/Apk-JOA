@@ -1,0 +1,20 @@
+{
+  "app_name": "Catálogo Joa",
+  "package_name": "com.aistudio.catalogojoa.multjv",
+  "version_code": 1,
+  "version_name": "1.0.0",
+  "release_date": "2026-09-05",
+  "min_supported_version_code": 1,
+  "force_update": false,
+  "github_repo": "junior18cubano-hash/Apk-JOA",
+  "apk_download_url": "https://github.com/junior18cubano-hash/Apk-JOA/releases/latest/download/CatalogoJoa.apk",
+  "release_page_url": "https://github.com/junior18cubano-hash/Apk-JOA/releases/latest",
+  "version_check_url": "https://raw.githubusercontent.com/junior18cubano-hash/Apk-JOA/main/version.json",
+  "changelog": [
+    "Versión 1.0.0 inicial de Catálogo Joa",
+    "Soporte para catálogo de juegos offline y online",
+    "Verificador de requisitos de hardware de PC (CPU, GPU, RAM, VRAM, Almacenamiento)",
+    "Widget dinámico para pantalla de inicio con accesos rápidos"
+  ],
+  "checksum_sha256": ""
+}
